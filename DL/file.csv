@@ -1,0 +1,2 @@
+GroupId,GroupName,VpcId,Description,OwnerId,InboundRulesCount,OutboundRulesCount,Tags
+sg-01edc7f9949320bd3,my-ec2-sg,vpc-02e661f12dd22a82c,my-ec2-sg,145023113703,2,1,
