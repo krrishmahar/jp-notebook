@@ -1,0 +1,54 @@
+
+# Java
+*.class
+*.zip
+*.tar.gz
+*.rar
+*.log
+*.jmx
+*.hprof
+hs_err_pid*
+*.java-recommenders
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven
+log/
+target/
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs and editors
+/.idea/
+/.project
+/.classpath
+/.settings
+/.vscode/
+/*.iml
+
+# Intellij
+*.iml
+*.iws
+.idea/
+out/
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.ini
+
+# Others
+*.bak
+*.swp
